@@ -1,0 +1,1 @@
+gentoo-distfiles/* filter=lfs diff=lfs merge=lfs -text
